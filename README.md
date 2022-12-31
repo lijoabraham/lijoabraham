@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lijo Abraham
-- 👀 I’m interested in data engineering and architecture
-- 🌱 I’m currently learning data engineering on cloud
+- 👀 I’m interested in data engineering and system architecture
+- 🌱 I’m currently exploring and learning data engineering on cloud
 - 📫 How to reach me lijoabraham1234@gmail.com
 - more details can be found at https://medium.com/@lijoabraham1234
 
